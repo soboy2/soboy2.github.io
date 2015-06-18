@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Days with Clojure
+title: 10 Days with Clojure (2 min read)
 ---
 
 Did you ever meet a girl and think she's probably not the prettiest girl you know, but she sure has a winning personality? Such an encounter might warrant a date and maybe a 2nd date. Well, that's what my last 10 days with Clojure has been like. I have to admit I was not so impressed the first 5 days. I felt bored and uninspired most of the time, but some good old quality time turned the tide.
